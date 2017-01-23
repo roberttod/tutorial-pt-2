@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/roberttod/tutorial-pt-2#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "mongodb": "^2.2.21"
   },
   "devDependencies": {
     "pm2": "^2.2.2"
